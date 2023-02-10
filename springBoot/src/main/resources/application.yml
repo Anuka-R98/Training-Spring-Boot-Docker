@@ -1,0 +1,7 @@
+
+spring:
+  data:
+    mongodb:
+      database: Student
+      host: mongo-j-cont
+      port: 27017
